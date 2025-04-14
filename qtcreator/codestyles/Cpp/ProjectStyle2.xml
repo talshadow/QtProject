@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCodeStyle>
-<!-- Written by QtCreator 9.0.2, 2023-03-30T14:53:17. -->
+<!-- Written by QtCreator 4.7.2, 2018-11-30T16:37:25. -->
 <qtcreator>
  <data>
   <variable>CodeStyleData</variable>
@@ -11,13 +11,13 @@
    <value type="bool" key="BindStarToLeftSpecifier">false</value>
    <value type="bool" key="BindStarToRightSpecifier">true</value>
    <value type="bool" key="BindStarToTypeName">false</value>
-   <value type="bool" key="ExtraPaddingForConditionsIfConfusingAlign">false</value>
+   <value type="bool" key="ExtraPaddingForConditionsIfConfusingAlign">true</value>
    <value type="bool" key="IndentAccessSpecifiers">false</value>
    <value type="bool" key="IndentBlockBody">true</value>
    <value type="bool" key="IndentBlockBraces">false</value>
    <value type="bool" key="IndentBlocksRelativeToSwitchLabels">false</value>
    <value type="bool" key="IndentClassBraces">false</value>
-   <value type="bool" key="IndentControlFlowRelativeToSwitchLabels">false</value>
+   <value type="bool" key="IndentControlFlowRelativeToSwitchLabels">true</value>
    <value type="bool" key="IndentDeclarationsRelativeToAccessSpecifiers">true</value>
    <value type="bool" key="IndentEnumBraces">false</value>
    <value type="bool" key="IndentFunctionBody">true</value>
@@ -25,8 +25,8 @@
    <value type="bool" key="IndentNamespaceBody">false</value>
    <value type="bool" key="IndentNamespaceBraces">false</value>
    <value type="int" key="IndentSize">4</value>
-   <value type="bool" key="IndentStatementsRelativeToSwitchLabels">false</value>
-   <value type="bool" key="IndentSwitchLabels">false</value>
+   <value type="bool" key="IndentStatementsRelativeToSwitchLabels">true</value>
+   <value type="bool" key="IndentSwitchLabels">true</value>
    <value type="int" key="PaddingMode">2</value>
    <value type="bool" key="ShortGetterName">true</value>
    <value type="bool" key="SpacesForTabs">true</value>
@@ -35,6 +35,6 @@
  </data>
  <data>
   <variable>DisplayName</variable>
-  <value type="QString">ProjectStyle</value>
+  <value type="QString">ProjectStyle Intellias</value>
  </data>
 </qtcreator>
